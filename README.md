@@ -10,4 +10,5 @@
 ![Dashboard mvp](https://github.com/njocimar28/nba/blob/3f65750d21d883880c6df2e620e9aad863398061/MVP%20de%20temporada%20regular.gif)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=njocimar28&theme=blue-green)
+
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&theme=blue-green)
