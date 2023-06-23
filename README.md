@@ -1,8 +1,5 @@
 ### Olá, sou o Jocimar Nascimento 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=njocimar28&theme=blue-green)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&theme=blue-green)
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -11,3 +8,6 @@
 
 ![Dashboard Times](https://github.com/njocimar28/nba/blob/b35913328898fa3ae877c09ce64ae3aa44a4efab/Dashboard%20Times.gif)
 ![Dashboard mvp](https://github.com/njocimar28/nba/blob/3f65750d21d883880c6df2e620e9aad863398061/MVP%20de%20temporada%20regular.gif)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=njocimar28&theme=blue-green)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&theme=blue-green)
