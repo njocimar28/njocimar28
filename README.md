@@ -12,8 +12,11 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-![Dashboard Times](https://github.com/njocimar28/nba/blob/b35913328898fa3ae877c09ce64ae3aa44a4efab/Dashboard%20Times.gif)
+![Dashboard gerações](https://github.com/njocimar28/nba/blob/41df95073b414c9d49838f3d1591db241fcd3e59/Comparativo%20Michael%20Jordan%2C%20LeBron%20James%20e%20Luka%20Doncic.gif)
 ![Dashboard mvp](https://github.com/njocimar28/nba/blob/3f65750d21d883880c6df2e620e9aad863398061/MVP%20de%20temporada%20regular.gif)
+![Dashboard Times](https://github.com/njocimar28/nba/blob/b35913328898fa3ae877c09ce64ae3aa44a4efab/Dashboard%20Times.gif)
+![Dashboard mvp](https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif)
+
 
 
 
