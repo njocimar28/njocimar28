@@ -10,6 +10,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="200">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
+
 
 ## Python / PySpark
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
@@ -23,7 +25,7 @@
 [<img src="https://github.com/njocimar28/nba/blob/b35913328898fa3ae877c09ce64ae3aa44a4efab/Dashboard%20Times.gif" width="200">](https://app.powerbi.com/groups/b8155de1-5a56-454f-a07b-e077a95cb84a/reports/0fc22265-a689-4197-b621-30ff3ef798eb?ctid=07e430a4-97fa-447c-afb8-f71f19435a7d&pbi_source=linkShare)
 
 [<img src="https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg" width="400">](https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg)
-[<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="200">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
+
 
 
 
