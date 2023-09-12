@@ -7,6 +7,8 @@
 
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&theme=blue-green)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=n.jocimar28&theme=highcontrast&show_icons=true&count_private=true)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
