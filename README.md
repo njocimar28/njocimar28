@@ -2,8 +2,8 @@
 
 📈 Estudante de Ciência de Dados
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](n.jocimar28@gmail.com)
+[![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
+[![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
