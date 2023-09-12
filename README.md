@@ -21,6 +21,8 @@
 [<img src="https://github.com/njocimar28/nba/blob/3f65750d21d883880c6df2e620e9aad863398061/MVP%20de%20temporada%20regular.gif" width="200">](https://app.powerbi.com/groups/b8155de1-5a56-454f-a07b-e077a95cb84a/reports/c44c5f14-4c35-4220-a7d3-abddb467740d?ctid=07e430a4-97fa-447c-afb8-f71f19435a7d&pbi_source=linkShare&bookmarkGuid=9c2d3f75-d1f2-4739-83c7-0c55b0ac362d)
 [<img src="https://github.com/njocimar28/nba/blob/b35913328898fa3ae877c09ce64ae3aa44a4efab/Dashboard%20Times.gif" width="200">](https://app.powerbi.com/groups/b8155de1-5a56-454f-a07b-e077a95cb84a/reports/0fc22265-a689-4197-b621-30ff3ef798eb?ctid=07e430a4-97fa-447c-afb8-f71f19435a7d&pbi_source=linkShare)
 
+[<img src="https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg" width="200">](https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg)
+
 
 
 
