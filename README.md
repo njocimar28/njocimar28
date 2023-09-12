@@ -10,7 +10,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="100">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
+[<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="150">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
 
 
 ## Python / PySpark
