@@ -6,8 +6,8 @@
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
 
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif" width="200">](https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [<img src="https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif" width="150">](https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif)
