@@ -1,3 +1,4 @@
+[<img src="https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="200">](https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png)
 ### Olá, sou o Jocimar Nascimento [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png" width="35">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png)
 
 📈 Entusiasta da Ciência de Dados
@@ -5,7 +6,7 @@
 [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png" width="100">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png)
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
-[<img src="https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="200">](https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
