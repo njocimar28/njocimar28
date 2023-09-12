@@ -1,6 +1,6 @@
 ### Olá, sou o Jocimar Nascimento :rocket:
 
-📈 Entusiasta de tecnologia Ciência de Dados
+📈 Entusiasta da Ciência de Dados
 
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
