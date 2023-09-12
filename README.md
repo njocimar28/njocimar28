@@ -1,6 +1,7 @@
 ### Olá, sou o Jocimar Nascimento :rocket:
 
 📈 Entusiasta da Ciência de Dados
+[<img src="https://github.com/njocimar28/image/blob/8138e757a6d10f7c3f76ae4eec6e060e342fe4e9/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg" width="200">](https://github.com/njocimar28/image/blob/8138e757a6d10f7c3f76ae4eec6e060e342fe4e9/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg)
 
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
@@ -11,11 +12,9 @@
 [<img src="https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif" width="150">](https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif)
 
 [<img src="https://github.com/njocimar28/image/blob/4056f67f9362f127c74001dfefe7d72bf4d0723d/pbi-gif.gif" width="200">](https://github.com/njocimar28/image/blob/4056f67f9362f127c74001dfefe7d72bf4d0723d/pbi-gif.gif)
-[<img src="https://github.com/njocimar28/image/blob/8138e757a6d10f7c3f76ae4eec6e060e342fe4e9/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg" width="200">](https://github.com/njocimar28/image/blob/8138e757a6d10f7c3f76ae4eec6e060e342fe4e9/_0a9fb481-8dc0-484b-b384-e6b9a542bfa5.jpeg)
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
