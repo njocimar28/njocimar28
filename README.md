@@ -7,6 +7,7 @@
 
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
 [<img src="https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif" width="200">](https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
