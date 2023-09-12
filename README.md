@@ -4,7 +4,6 @@
 
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
