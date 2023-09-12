@@ -12,8 +12,6 @@
 
 [<img src="https://github.com/njocimar28/image/blob/4056f67f9362f127c74001dfefe7d72bf4d0723d/pbi-gif.gif" width="200">](https://github.com/njocimar28/image/blob/4056f67f9362f127c74001dfefe7d72bf4d0723d/pbi-gif.gif)
 
-
-
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
