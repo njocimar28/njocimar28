@@ -6,7 +6,7 @@
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
 
-📈 Analista de dados com habilidades em manipulação de dados com Python e SQL, visualização de dados com ferramentas como Tableau e Power BI e análise estatística. Experiência com gestão e negócios com ênfase em logística e entendimento de cliente.
+#### 📈 Analista de dados com habilidades em manipulação de dados com Python e SQL, visualização de dados com ferramentas como Tableau e Power BI e análise estatística. Experiência com gestão e negócios com ênfase em logística e entendimento de cliente.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="150">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
