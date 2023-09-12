@@ -7,8 +7,7 @@
 
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[<img src="https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif" width="200">](https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif)
+[<img src="https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif" width="150">](https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
