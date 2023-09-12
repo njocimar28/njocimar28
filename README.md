@@ -1,6 +1,6 @@
 ### Olá, sou o Jocimar Nascimento [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png" width="35">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png)
 
-📈 Entusiasta da Ciência de Dados
+📈 Analista de dados com habilidades em manipulação de dados com Python e SQL, visualização de dados com ferramentas como Tableau e Power BI e análise estatística. Experiência com gestão e negócios com ênfase em logística e entendimento de cliente.
 
 [<img src="https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="100">](https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png)
 [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png" width="100">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png)
