@@ -1,4 +1,4 @@
-### Olá, sou o Jocimar Nascimento [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png" width="50">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png)
+### Olá, sou o Jocimar Nascimento [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png" width="35">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-rocket-100.png)
 
 📈 Entusiasta da Ciência de Dados
 
