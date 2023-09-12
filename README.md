@@ -5,7 +5,6 @@
 [<img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png" width="100">](https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png)
 [![Linkedin](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png)](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 [![gmail](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-gmail-logo-94.png)](n.jocimar28@gmail.com)
-[<img src="https://github.com/njocimar28/image/blob/e43888c9142477656c35fbffcdef8478e03867b9/apachesparklogo.png" width="100">](https://github.com/njocimar28/image/blob/e43888c9142477656c35fbffcdef8478e03867b9/apachesparklogo.png)
 
 [<img src="https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/Avatar-Maker%20(1).png" width="100">](https://github.com/njocimar28/image/blob/03a521a1ffccdff9dc96b8d710fff68c5ae63e91/Avatar-Maker%20(1).png)
 
@@ -14,6 +13,8 @@
 
 ## Python
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
+[<img src="https://github.com/njocimar28/image/blob/e43888c9142477656c35fbffcdef8478e03867b9/apachesparklogo.png" width="200">](https://github.com/njocimar28/image/blob/e43888c9142477656c35fbffcdef8478e03867b9/apachesparklogo.png)
+
 [<img src="https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif" width="200">](https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif)
 
 ## Power BI
