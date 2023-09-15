@@ -14,7 +14,7 @@
 ## Python / PySpark
 ![python](https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-python-94.png)
 <img src="https://github.com/njocimar28/image/blob/e43888c9142477656c35fbffcdef8478e03867b9/apachesparklogo.png" width="200">
-[<img src="https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif" width="200">]([https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif](https://github.com/njocimar28/enem_2022))
+[<img src="https://github.com/njocimar28/nba/blob/862f760542b8ff092b1d53dc848aedcc6a0a0e07/python.gif" width="200">](https://github.com/njocimar28/enem_2022)
 
 ## Power BI
 [<img src="https://github.com/njocimar28/image/blob/7cf24dd8ccd04b202431fbe5f4777ca3f846bf60/316ceb2b81248f951926e806ecb6e8a9.gif" width="150">](https://github.com/njocimar28/Dashboards)
