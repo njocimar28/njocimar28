@@ -7,7 +7,7 @@
 <img src="https://github.com/njocimar28/image/blob/b04fe5e348e45a5a72a30653bcf31c7b3ad263f0/icons8-cubo-de-rubik-94.png" width="100">
 
 
-### 📈 Analista de dados com habilidades em manipulação de dados com Python e SQL, visualização de dados com ferramentas como Tableau e Power BI e análise estatística. Experiência com gestão e negócios com ênfase em logística e entendimento de cliente.
+#### 📈 Analista de dados com habilidades em manipulação de dados com Python e SQL, visualização de dados com ferramentas como Tableau e Power BI e análise estatística. Experiência com gestão e negócios com ênfase em logística e entendimento de cliente.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njocimar28&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [<img src="https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png" width="150">](https://github.com/njocimar28/image/blob/7b1a1eae8e5e4b873cfb5e93564f99e1a3380a42/_4c9880a0-ffbd-4aa8-95a9-a61669e3b564-removebg-preview.png)
