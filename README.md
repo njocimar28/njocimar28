@@ -4,7 +4,8 @@
 <img src="https://github.com/njocimar28/image/blob/7cc1ce33f02fe324051c567a9debbc236d81a9d1/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="100">
 <img src="https://github.com/njocimar28/image/blob/8ac4249ff0756774c393c6ec711b7d3b9f35c1c5/icons8-laptop-94.png" width="100">
 <img src="https://github.com/njocimar28/image/blob/b04fe5e348e45a5a72a30653bcf31c7b3ad263f0/icons8-cubo-de-rubik-94.png" width="100">
-[<img src="https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png" width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253)
+
+[<img src="https://github.com/njocimar28/image/blob/5d399853bdd887407d6987319e18a61ecc0bf400/icons8-linkedin-94.png" width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 
 
 
