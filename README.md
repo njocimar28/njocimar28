@@ -1,4 +1,5 @@
-[<img src="https://github.com/njocimar28/enem_2022/blob/1eb9c9a9c1e8e811d8aa3158bec1b38fb3f077dc/imagem/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="100"><img width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253/)[<img src="https://github.com/njocimar28/enem_2022/blob/1eb9c9a9c1e8e811d8aa3158bec1b38fb3f077dc/imagem/icons8-linkedin-94.png" width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
+[<img src="https://github.com/njocimar28/enem_2022/blob/1eb9c9a9c1e8e811d8aa3158bec1b38fb3f077dc/imagem/_13ba3fdf-30c0-4626-a304-af20eb6f0b90-removebg-preview.png" width="100"><img width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
+[<img src="https://github.com/njocimar28/enem_2022/blob/1eb9c9a9c1e8e811d8aa3158bec1b38fb3f077dc/imagem/icons8-linkedin-94.png" width="100">](https://www.linkedin.com/in/jocimar-nascimento-501457253/)
 
 ### Olá, sou o Jocimar Nascimento <img src="https://github.com/njocimar28/enem_2022/blob/1eb9c9a9c1e8e811d8aa3158bec1b38fb3f077dc/imagem/icons8-rocket-100.png" width="35">
 
